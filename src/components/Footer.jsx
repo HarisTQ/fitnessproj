@@ -7,7 +7,7 @@ const Footer = () => {
 		<footer className={footerclass['footer__wrapper']}>
 			<p>
 				© 2023 - <FcLike />
-				&nbsp; Website developed by Niraj Deshmukh
+				&nbsp; Website developed by Haris Touqeer
 			</p>
 		</footer>
 	);

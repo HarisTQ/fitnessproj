@@ -9,9 +9,9 @@ const ContactDetails = () => {
 					<h4>Find Us</h4>
 					<a>
 						<p>
-							1925 Century Park East
-							<br /> Suite 1250
-							<br /> Los Angeles, CA 90067
+							Bahria Town 
+							<br /> 1020 plaza midview
+							<br /> Lahore, Pakistam
 						</p>
 					</a>
 				</li>
@@ -20,7 +20,7 @@ const ContactDetails = () => {
 					<a>
 						<p>
 							T – 1 310 556 0155 <br />
-							info@actionistconsulting.com
+							info@Harisfitness525@gamil.com
 						</p>
 					</a>
 				</li>

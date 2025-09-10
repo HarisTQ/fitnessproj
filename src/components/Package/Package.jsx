@@ -102,7 +102,7 @@ const Package = () => {
 							<div style={{marginTop: '1.6em'}}>
 								<Badge bgcolor='#FFD700'>Gold</Badge>
 								<div className={packageclasses['package-card__cost']}>
-									<h4>$40</h4>
+									<h4>11200Rs</h4>
 									<p>/ Monthly</p>
 								</div>
 								<p className={packageclasses['package-card__cost-details']}>
@@ -139,7 +139,7 @@ const Package = () => {
 							<div style={{marginTop: '1.6em'}}>
 								<Badge bgcolor='#f35508'>Premium</Badge>
 								<div className={packageclasses['package-card__cost']}>
-									<h4>$80</h4>
+									<h4>22500Rs</h4>
 									<p>/ Monthly</p>
 								</div>
 								<p className={packageclasses['package-card__cost-details']}>
